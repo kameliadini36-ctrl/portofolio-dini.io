@@ -11,7 +11,7 @@ body {
     line-height: 1.6;
 }
 
-/* ==================== SIDEBAR ==================== */
+
 .sidebar {
     position: fixed;
     top: 0;
@@ -125,7 +125,7 @@ body {
     line-height: 1.5;
 }
 
-/* ==================== MAIN CONTENT ==================== */
+
 .main-content {
     margin-left: 260px;
     padding: 0 60px;
@@ -134,7 +134,7 @@ body {
     flex-direction: column;
 }
 
-/* ==================== BERANDA / HERO ==================== */
+
 .hero {
     flex: 1;
     display: flex;
@@ -271,7 +271,7 @@ body {
     color: #8b6483;
 }
 
-/* ==================== HERO IMAGE ==================== */
+
 .hero-image {
     position: relative;
     flex: 1;
@@ -378,7 +378,7 @@ body {
     background-color: #894370;
 }
 
-/* ==================== GENERAL PAGE SECTIONS ==================== */
+
 .content-section {
     flex: 1;
     padding: 60px 0;
@@ -404,7 +404,7 @@ body {
     color: #8b6488;
 }
 
-/* ==================== PROFIL SECTION ==================== */
+
 .about-content {
     display: grid;
     grid-template-columns: 280px 1fr;
@@ -470,7 +470,7 @@ body {
     color: #334155;
 }
 
-/* ==================== PENDIDIKAN SECTION ==================== */
+
 .education-container {
     display: flex;
     flex-direction: column;
@@ -522,7 +522,7 @@ body {
     line-height: 1.65;
 }
 
-/* ==================== KEAHLIAN SECTION ==================== */
+
 .skills-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -570,7 +570,7 @@ body {
     line-height: 1.5;
 }
 
-/* ==================== KONTAK SECTION ==================== */
+
 .contact-container {
     display: grid;
     grid-template-columns: 1fr 1.2fr;
@@ -668,7 +668,7 @@ body {
     background-color: #924a87;
 }
 
-/* ==================== FOOTER ==================== */
+
 .footer {
     margin-top: auto;
     padding: 24px 0;
@@ -678,7 +678,7 @@ body {
     color: #8b6486;
 }
 
-/* ==================== RESPONSIVE ==================== */
+
 @media (max-width: 1024px) {
     .hero {
         flex-direction: column;
